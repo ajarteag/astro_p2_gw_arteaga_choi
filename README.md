@@ -9,7 +9,8 @@ Main Contributors:
 
 [Shared Google Drive](https://drive.google.com/drive/folders/1lMNxe0jhZZMdRgilF-eyMoOblRWajDCp?usp=share_link)
 
-This project uses [Guide to GW Detections and Noise](https://gwosc.org/tutorials/) for tutorials.
+This project uses [Guide to GW Detections and Noise](https://gwosc.org/tutorials/) for tutorials, specifically this github link 
+[Data_Guide](https://github.com/losc-tutorial/Data_Guide)
 
 The main description for the project comes from class:
 
@@ -17,7 +18,7 @@ The main description for the project comes from class:
 years in the making following their prediction by Einstein’s theory of General Relativity. 
 The detection of two merging black holes that were more than a billion light years away led to the 2016 Nobel Prize being awarded to Rai Weiss, Kip
 Thorne, and Barry Barish. 
-The work was carried out by *over a thousand people* though – the detection was a physics experiemnt in and of itself!
+The work was carried out by *over a thousand people* though – the detection was a physics experiment in and of itself!
 
 Luckily for us, the LIGO Science Collaboration has produced tutorials for interested folks to download and play with
 their data so that you can learn exactly how gravitational wave data analysis works. 
