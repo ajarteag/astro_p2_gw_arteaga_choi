@@ -9,7 +9,7 @@ Main Contributors:
 
 [Shared Google Drive](https://drive.google.com/drive/folders/1lMNxe0jhZZMdRgilF-eyMoOblRWajDCp?usp=share_link)
 
-This project uses [Guide to GW Detector and Noise](https://gwosc.org/tutorials/) for tutorials.
+This project uses [Guide to GW Detections and Noise](https://gwosc.org/tutorials/) for tutorials.
 
 The main description for the project comes from class:
 
