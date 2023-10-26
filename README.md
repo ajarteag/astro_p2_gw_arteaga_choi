@@ -1,37 +1,29 @@
-# Black-Hole-Mass-Function
+# Gravitational-Wave-Data-Analysis
 ### Introduction 
 
-Black Hole Mass Function Project 1 - 33-467: Astrophysics for Stars &amp; the Galaxy 
+Gravitational Wave Data Analysis Project 2 - 33-467: Astrophysics for Stars &amp; the Galaxy 
 
 Main Contributors:
 * Alex Arteaga (ajarteag@andrew.cmu.edu)
-* Hirani Sattenapalli (ssattena@andrew.cmu.edu)
+* Chris Choi (minyeonc@andrew.cmu.edu)
 
 [Shared Google Drive](https://drive.google.com/drive/folders/1lMNxe0jhZZMdRgilF-eyMoOblRWajDCp?usp=share_link)
 
-This project uses [COSMIC](https://cosmic-popsynth.github.io/) for computer 
-simulations.
+This project uses [Guide to GW Detector and Noise](https://gwosc.org/tutorials/) for tutorials.
 
 The main description for the project comes from class:
 
-"Black holes with masses below ∼ 100 M⊙ are predominantly expected to form from 
-stars. This project will investigate how different assumptions for stellar 
-evolution affects the masses of the black holes that can be produced from stars
-by using the population synthesis code COSMIC to simulate single stars with 
-different ZAMS masses and metallicities. COSMIC includes several models for 
-compact object formation but actually doesn’t treat black holes different from 
-neutron stars; your first task to study how COSMIC simulations compact object 
-formation and articulate why black holes and neutron stars are handled the same 
-way.
+"The discovery of Gravitational Waves by the LIGO-Virgo Collaboration in 2015 marked a feat of science nearly 100
+years in the making following their prediction by Einstein’s theory of General Relativity. 
+The detection of two merging black holes that were more than a billion light years away led to the 2016 Nobel Prize being awarded to Rai Weiss, Kip
+Thorne, and Barry Barish. 
+The work was carried out by *over a thousand people* though – the detection was a physics experiemnt in and of itself!
 
-Next, you should investigate the boundaries (upper and lower) of the black hole 
-mass spectrum and how those boundaries change with different assumptions in the 
-code. How does the mass spectrum within the boundaries change? Compare your 
-simulations to black holes discovered and characterized through microlensing, 
-radial velocity and astrometry, X-rays, and gravitational waves. What can you 
-conclude about the origin of black holes based on this comparison? As detectors 
-increase their sensitivity to stellar populations that are far away, do you 
-expect the majority of the black holes to have larger masses or smaller masses?"
+Luckily for us, the LIGO Science Collaboration has produced tutorials for interested folks to download and play with
+their data so that you can learn exactly how gravitational wave data analysis works. 
+For this project, you should work through the "Guide to GW detections and noise" tutorial on the [GW open science center website](https://gwosc.org/tutorials/). 
+Once you’ve finished that tutorial, you can move onto the "Searching for astrophysical sources" section to find an insprialing source. By the
+end of the project, you should have a lot of figures and be able to describe how each analysis step works.
 
 ### Setup
 
