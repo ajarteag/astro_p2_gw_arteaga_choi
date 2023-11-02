@@ -1,0 +1,8 @@
+# ignore hidden files
+**.DS_Store
+
+# ignore python files
+**.pyc
+
+# ignore GW data files
+**.hdf5
