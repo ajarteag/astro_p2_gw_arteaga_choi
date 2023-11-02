@@ -7,8 +7,6 @@ Main Contributors:
 * Alex Arteaga (ajarteag@andrew.cmu.edu)
 * Chris Choi (minyeonc@andrew.cmu.edu)
 
-[Shared Google Drive](https://drive.google.com/drive/folders/1lMNxe0jhZZMdRgilF-eyMoOblRWajDCp?usp=share_link)
-
 This project uses [Gravitational Wave Open Science Center website](https://gwosc.org/tutorials/) for tutorials, specifically this github link 
 [Data_Guide](https://github.com/losc-tutorial/Data_Guide)
 
