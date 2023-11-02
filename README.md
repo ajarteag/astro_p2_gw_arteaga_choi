@@ -9,7 +9,7 @@ Main Contributors:
 
 [Shared Google Drive](https://drive.google.com/drive/folders/1lMNxe0jhZZMdRgilF-eyMoOblRWajDCp?usp=share_link)
 
-This project uses [Guide to GW Detections and Noise](https://gwosc.org/tutorials/) for tutorials, specifically this github link 
+This project uses [Gravitational Wave Open Science Center website) for tutorials, specifically this github link 
 [Data_Guide](https://github.com/losc-tutorial/Data_Guide)
 
 The main description for the project comes from class:
