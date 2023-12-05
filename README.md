@@ -7,8 +7,12 @@ Main Contributors:
 * Alex Arteaga (ajarteag@andrew.cmu.edu)
 * Chris Choi (minyeonc@andrew.cmu.edu)
 
-This project uses [Gravitational Wave Open Science Center website](https://gwosc.org/tutorials/) for tutorials, specifically this github link 
-[Data_Guide](https://github.com/losc-tutorial/Data_Guide)
+This project uses [Gravitational Wave Open Science Center website](https://gwosc.org/tutorials/) for tutorials, specifically the following tutorials:
+* [Quickview](https://github.com/losc-tutorial/quickview/blob/master/index.ipynb)
+* [Guide to GW detections and noise](https://github.com/losc-tutorial/Data_Guide)
+* [Lots of Plots](https://gwosc.org/tutorial05)
+* [Binary Black Hole Events](https://github.com/losc-tutorial/LOSC_Event_tutorial)
+* [Find an Inspiral](https://gwosc.org/tutorial06)
 
 The main description for the project comes from class:
 
@@ -26,4 +30,7 @@ end of the project, you should have a lot of figures and be able to describe how
 
 ### Setup
 
-TODO
+All tutorials and code run on python jupyter notebooks. 
+
+To run these notebooks on a local machine, we installed the [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/usage/).
+To make setup easier, we created a [notebook](https://github.com/ajarteag/astro_p2_gw_arteaga_choi/blob/main/setup/environment_setup.ipynb) in our [setup](https://github.com/ajarteag/astro_p2_gw_arteaga_choi/tree/main/setup) directiory to run and install the conda environment necessary to run the tutorials much more quickly.
